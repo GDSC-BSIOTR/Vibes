@@ -28,9 +28,9 @@
     "id": 4,
     "singer_name": "Armaan malik",
     "Song": "Buddhu Sa Mann",
-    "Movie": "Kapoor & Sons",
-    "Release year": "2016",
-    "Song link": "https://youtu.be/Zo4WsI14s3g"
+    "Movie": "",
+    "Release year": "2018",
+    "Song link": "https://www.youtube.com/watch?v=TmRgK-pXH9c"
    },
   {
     "id": 5,
@@ -48,4 +48,13 @@
     "Release year": "2006",
     "Song link" :"https://youtu.be/lrAM_H7v8wM"
    },
+    {
+    "id": 7 ,
+    "singer_name": "Jubin Nautiyal",
+    "Song": "Hum Navamere",
+    "Movie": "Woh Lamhe",
+    "Release year": "2006",
+    "Song link" :"https://youtu.be/lrAM_H7v8wM"
+   },
+    
 ]
