@@ -120,6 +120,14 @@
     "Movie": "Gabbar Is Back",
     "Release year": "2015",
     "Song link" :"https://www.youtube.com/watch?v=ZWAGn4yyRMM"
-  }  
+  }, 
+{
+    "id": 13 ,
+    "singer_name": "Shreya Ghoshal", "Sona Mohapatra","Vishal-Shekhar"
+    "Song": "Bahara",
+    "Movie": "I hate Luv Storys",
+    "Release year": "2010",
+    "Song link" :"https://youtu.be/_VOXxKDNCuM"
+   }
 
 ]
