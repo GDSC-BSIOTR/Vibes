@@ -120,6 +120,13 @@
     "Movie": "Gabbar Is Back",
     "Release year": "2015",
     "Song link" :"https://www.youtube.com/watch?v=ZWAGn4yyRMM"
-  }  
+  },
 
-]
+   {
+    "id": 13 ,
+    "singer_name": "Arijit Singh, Harshdeep Kaur",
+    "Song": "Zaalima",
+    "Movie": "Raees",
+    "Release year": "2017",
+    "Song link" :"https://youtu.be/lpdRqn6xwiM"
+  } 
