@@ -50,9 +50,18 @@
     "Song link" :"https://youtu.be/lrAM_H7v8wM"
    },
 
+  
+    "id": 7,
+    "singer_name": "Kishor Kumar",
+    "Song": "Koi Humdum Na Raha",
+    "Movie": "Jhumroo",
+    "Release year": "1961",
+    "Song link" :"https://youtu.be/YmmX30DoXdM"
+   },
+  
     {
-    "id": 7 ,
-    "singer_name": "Sonu Nigam",
+    "id": 8,
+       "singer_name": "Sonu Nigam",
     "Song": "Jaane Nahin Denge",
     "Movie": "3 Idiots",
     "Release year": "2009",
@@ -87,12 +96,12 @@
    },
   
      {
-    "id":  10,
-    "singer_name": "Kendrick Lamar, SZA ",
-    "Song": "All The Stars",
-    "Movie": "Black Panther",
-    "Release year": "2018",
-    "Song link" :"https://youtu.be/JQbjS0_ZfJ0"
+       "id":  10,
+       "singer_name": "Kendrick Lamar, SZA ",
+       "Song": "All The Stars",
+       "Movie": "Black Panther",
+       "Release year": "2018",
+       "Song link" :"https://youtu.be/JQbjS0_ZfJ0"
    },
 
   {
@@ -103,5 +112,6 @@
     "Release year": "2019",
     "Song link" :"https://youtu.be/-z_UvHknyrc"
   }
+
 
 ]
