@@ -1,0 +1,43 @@
+[
+    
+    {
+    "id": 1,
+    "singer_name": "Arijit Singh",
+    "Song": "Hawayein",
+    "Movie": "Jab Harry Met Sejal",
+    "Release year": "2017",
+    "link": "https://youtu.be/cYOB941gyXI"
+   },
+   {
+    "id": 2,
+    "singer_name": "Jubin Nautiyal & Asees Kaur",
+    "Song": "Raataan Lambiyan",
+    "Movie": "Shershaah",
+    "Release year": "2021",
+    "Song link": "https://youtu.be/gvyUuxdRdR4"
+   },
+   {
+    "id": 3,
+    "singer_name": "Akhil Sachdeva",
+    "Song": "Humsafar",
+    "Movie": "Badrinath Ki Dulhaniya",
+    "Release year": "2017",
+    "Song link": "https://youtu.be/8v-TWxPWIWc"
+   },
+   {
+    "id": 4,
+    "singer_name": "Armaan malik",
+    "Song": "Buddhu Sa Mann",
+    "Movie": "Kapoor & Sons",
+    "Release year": "2016",
+    "Song link": "https://youtu.be/Zo4WsI14s3g"
+   },
+  {
+    "id": 5,
+    "singer_name": "Mohit Chauhan",
+    "Song": "Matargashti",
+    "Movie": "Tamasha",
+    "Release year": "2015",
+    "Song link": "https://youtu.be/6vKucgAeF_Q"
+   }
+]
