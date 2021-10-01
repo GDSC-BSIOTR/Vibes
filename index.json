@@ -120,6 +120,7 @@
     "Movie": "Gabbar Is Back",
     "Release year": "2015",
     "Song link" :"https://www.youtube.com/watch?v=ZWAGn4yyRMM"
+
   }, 
 {
     "id": 13 ,
@@ -128,6 +129,24 @@
     "Movie": "I hate Luv Storys",
     "Release year": "2010",
     "Song link" :"https://youtu.be/_VOXxKDNCuM"
-   }
+   },
+
+{
+    "id": 14 ,
+    "singer_name": "Arijit Singh",
+    "Song": "Tum Hi Ho",
+    "Movie": "Aashiqui 2",
+    "Release year": "2013",
+    "Song link" :"https://youtu.be/IJq0yyWug1k"
+  },
+{ 
+    "id": 15 ,
+    "singer_name": "Arijit Singh",
+    "Song": "Ilahi",
+    "Movie": "Yeh Jaawani Hai Deewani",
+    "Release year": "2013",
+    "Song link" :"https://youtu.be/fdubeMFwuGs"
+}
+
 
 ]
