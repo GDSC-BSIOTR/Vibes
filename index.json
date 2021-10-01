@@ -48,4 +48,12 @@
     "Release year": "2006",
     "Song link" :"https://youtu.be/lrAM_H7v8wM"
    },
+     {
+    "id":  7,
+    "singer_name": "Kendrick Lamar, SZA ",
+    "Song": "All The Stars",
+    "Movie": "Black Panther",
+    "Release year": "2018",
+    "Song link" :"https://youtu.be/JQbjS0_ZfJ0"
+   },
 ]
