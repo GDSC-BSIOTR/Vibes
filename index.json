@@ -120,6 +120,14 @@
     "Movie": "Gabbar Is Back",
     "Release year": "2015",
     "Song link" :"https://www.youtube.com/watch?v=ZWAGn4yyRMM"
+  } , 
+{
+    "id": 13 ,
+    "singer_name": "Arijit Singh",
+    "Song": "Tum Hi Ho",
+    "Movie": "Aashiqui 2",
+    "Release year": "2013",
+    "Song link" :"https://youtu.be/IJq0yyWug1k"
   }  
 { 
     "id": 13 ,
