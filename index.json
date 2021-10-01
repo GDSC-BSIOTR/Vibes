@@ -28,9 +28,9 @@
     "id": 4,
     "singer_name": "Armaan malik",
     "Song": "Buddhu Sa Mann",
-    "Movie": "Kapoor & Sons",
-    "Release year": "2016",
-    "Song link": "https://youtu.be/Zo4WsI14s3g"
+    "Movie": "",
+    "Release year": "2018",
+    "Song link": "https://www.youtube.com/watch?v=TmRgK-pXH9c"
    },
   {
     "id": 5,
@@ -50,7 +50,7 @@
     "Song link" :"https://youtu.be/lrAM_H7v8wM"
    },
 
-    {
+  
     "id": 7,
     "singer_name": "Kishor Kumar",
     "Song": "Koi Humdum Na Raha",
@@ -61,6 +61,33 @@
   
     {
     "id": 8,
+       "singer_name": "Sonu Nigam",
+    "Song": "Jaane Nahin Denge",
+    "Movie": "3 Idiots",
+    "Release year": "2009",
+    "Song link" :"https://youtu.be/sAHbwzkrlmg"
+   }
+    
+    {
+    "id": 7 ,
+    "singer_name": "Jubin Nautiyal",
+    "Song": "Hum Navamere",
+    "Movie": "Woh Lamhe",
+    "Release year": "2006",
+    "Song link" :"https://youtu.be/lrAM_H7v8wM"
+   },
+    
+    {
+    "id": 8,
+    "singer_name": "Kavish",
+    "Song": "Baat Unkahi",
+    "Movie": "Baat Unkahi",
+    "Release year": "2020",
+    "Song link" :"https://www.youtube.com/watch?v=rn9aNVsABvc&list=RDMMrn9aNVsABvc&start_radio=1"
+   },
+
+    {
+    "id": 9 ,
     "singer_name": "Arijit Singh",
     "Song": "Sooraj Dooba Hai",
     "Movie": "Roy",
@@ -69,13 +96,22 @@
    },
   
      {
-    "id":  9,
-    "singer_name": "Kendrick Lamar, SZA ",
-    "Song": "All The Stars",
-    "Movie": "Black Panther",
-    "Release year": "2018",
-    "Song link" :"https://youtu.be/JQbjS0_ZfJ0"
-   }
+       "id":  10,
+       "singer_name": "Kendrick Lamar, SZA ",
+       "Song": "All The Stars",
+       "Movie": "Black Panther",
+       "Release year": "2018",
+       "Song link" :"https://youtu.be/JQbjS0_ZfJ0"
+   },
+
+  {
+    "id": 11 ,
+    "singer_name": "Tushar joshi",
+    "Song": "Woh Din",
+    "Movie": "Chhichhore",
+    "Release year": "2019",
+    "Song link" :"https://youtu.be/-z_UvHknyrc"
+  }
 
 
 ]
