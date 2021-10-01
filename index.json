@@ -69,3 +69,10 @@
    }
 
 ]
+  {
+    "id": 7 ,
+    "singer_name": "Tushar joshi",
+    "Song": "Woh Din",
+    "Movie": "Chhichhore",
+    "Release year": "2019",
+    "Song link" :"https://youtu.be/-z_UvHknyrc"
