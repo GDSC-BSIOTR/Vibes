@@ -32,6 +32,7 @@
     "Release year": "2018",
     "Song link": "https://www.youtube.com/watch?v=TmRgK-pXH9c"
    },
+    
   {
     "id": 5,
     "singer_name": "Mohit Chauhan",
@@ -128,6 +129,13 @@
     "Movie": "Yeh Jaawani Hai Deewani",
     "Release year": "2013",
     "Song link" :"https://youtu.be/fdubeMFwuGs"
+}
+"id": 14,
+    "singer_name": " A.R. Rahman",
+    "Song": "dil bechara",
+    "Movie": "dil bechara",
+    "Release year": "2020",
+    "Song link": ":https://youtu.be/PMCu0JtizCk"
 }
 
 ]
