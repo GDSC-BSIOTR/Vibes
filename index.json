@@ -174,5 +174,13 @@
     "Movie": "sheershaah",
     "Release year": "2021",
     "Song link" :"https://youtu.be/lpdRqn6xwiM"
-}
+},
+{
+    "id": 18,
+    "singer_name": "Darshan Raval",
+    "Song": "Mehrama",
+    "Movie": "Love Aaj Kal",
+    "Release year": "2020",
+    "link": "https://youtu.be/HYUpNJJELeE"
+   },
 ]
