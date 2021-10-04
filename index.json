@@ -167,12 +167,56 @@
     "Movie": "Raees",
     "Release year": "2017",
     "Song link" :"https://youtu.be/lpdRqn6xwiM"
-  } 
-{    "id": 16 ,
+  },
+   {
+    "id": 18 ,
+    "singer_name": "Arijit Singh",
+    "Song": "Razzi",
+    "Movie": "Raazi",
+    "Release year": "2018",
+    "Song link" :"https://youtu.be/c4ZteOtHWQ0"
+  },
+{
+    "id": 19 ,
+    "singer_name": "Raftaar",
+    "Song": "Dhaakad",
+    "Movie": "Dangal",
+    "Release year": "2016",
+    "Song link" :"https://youtu.be/0zFoHrvbRu4"
+  }, 
+{
+    "id": 20 ,
+    "singer_name": "Vishal- Shekar",
+    "Song": "Ratta Maar",
+    "Movie": "Student of The Year",
+    "Release year": "2012",
+    "Song link" :"https://youtu.be/psWV9GdEgzo"
+  },
+
+{
+    "id": 21,
+    "singer_name": "Meghana Mishra",
+    "Song": "Nachdi Phira",
+    "Movie": "Secret Superstar",
+    "Release year": "2017",
+    "Song link" :"https://youtu.be/rZ4JfD-YdZY"
+  },
+
+{
+    "id": 22,
+    "singer_name": "Shreya Ghoshal, Sonu Nigam",
+    "Song": "Zoobi Doobi",
+    "Movie": "3 Idiots",
+    "Release year": "2009",
+    "Song link" :"https://youtu.be/V056WNg3ECo"
+  },
+
+{    "id": 23 ,
     "singer_name": "B praak",
     "Song": "Mann bharryaa 2.0",
     "Movie": "sheershaah",
     "Release year": "2021",
     "Song link" :"https://youtu.be/lpdRqn6xwiM"
 }
+
 ]
