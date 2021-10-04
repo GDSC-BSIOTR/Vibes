@@ -32,6 +32,7 @@
     "Release year": "2018",
     "Song link": "https://www.youtube.com/watch?v=TmRgK-pXH9c"
    },
+    
   {
     "id": 5,
     "singer_name": "Mohit Chauhan",
@@ -50,7 +51,7 @@
     "Song link" :"https://youtu.be/lrAM_H7v8wM"
    },
 
-  
+ {
     "id": 7,
     "singer_name": "Kishor Kumar",
     "Song": "Koi Humdum Na Raha",
@@ -147,23 +148,34 @@
     "Movie": "Yeh Jaawani Hai Deewani",
     "Release year": "2013",
     "Song link" :"https://youtu.be/fdubeMFwuGs"
+
+},
+
+{
+"id": 16,
+    "singer_name": " A.R. Rahman",
+    "Song": "dil bechara",
+    "Movie": "dil bechara",
+    "Release year": "2020",
+    "Song link": ":https://youtu.be/PMCu0JtizCk"
 },
 
    {
-    "id": 13 ,
+    "id": 17 ,
     "singer_name": "Arijit Singh, Harshdeep Kaur",
     "Song": "Zaalima",
     "Movie": "Raees",
     "Release year": "2017",
     "Song link" :"https://youtu.be/lpdRqn6xwiM"
-  } 
-    "id": 17 ,
+  },
+   {
+    "id": 18 ,
     "singer_name": "Arijit Singh",
     "Song": "Razzi",
     "Movie": "Raazi",
     "Release year": "2018",
     "Song link" :"https://youtu.be/c4ZteOtHWQ0"
-  } 
+  },
 {
     "id": 19 ,
     "singer_name": "Raftaar",
@@ -171,7 +183,7 @@
     "Movie": "Dangal",
     "Release year": "2016",
     "Song link" :"https://youtu.be/0zFoHrvbRu4"
-  } 
+  }, 
 {
     "id": 20 ,
     "singer_name": "Vishal- Shekar",
@@ -198,4 +210,13 @@
     "Release year": "2009",
     "Song link" :"https://youtu.be/V056WNg3ECo"
   },
+
+{    "id": 23 ,
+    "singer_name": "B praak",
+    "Song": "Mann bharryaa 2.0",
+    "Movie": "sheershaah",
+    "Release year": "2021",
+    "Song link" :"https://youtu.be/lpdRqn6xwiM"
+}
+
 ]
