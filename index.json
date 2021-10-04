@@ -218,9 +218,18 @@
     "Release year": "2021",
     "Song link" :"https://youtu.be/lpdRqn6xwiM"
 },
+{
+
+       "id":  24,
+       "singer_name": "Arijit singh",
+       "Song": "Raazi",
+       "Movie": "Raazi",
+       "Release year": "2018",
+       "Song link" :"https://youtu.be/c4ZteOtHWQO"
+   },
 
 {
-    "id": 24,
+    "id": 25,
     "singer_name": "Darshan Raval",
     "Song": "Mehrama",
     "Movie": "Love Aaj Kal",
@@ -228,7 +237,7 @@
     "link": "https://youtu.be/HYUpNJJELeE"
    },
 
-{     id": 25,
+{     id": 26,
     "singer_name": "Badshah",
     "Song": "Garmi",
     "Movie": "Street Dancer 3D",
@@ -236,3 +245,4 @@
     "link": "https://youtu.be/IE8OD5FbU-c"
 }
 ]
+
