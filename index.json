@@ -152,7 +152,7 @@
 },
 
 {
-"id": 16,
+    "id": 16,
     "singer_name": " A.R. Rahman",
     "Song": "dil bechara",
     "Movie": "dil bechara",
@@ -218,6 +218,7 @@
     "Release year": "2021",
     "Song link" :"https://youtu.be/lpdRqn6xwiM"
 },
+
 {
 
        "id":  24,
@@ -244,6 +245,7 @@
     "Release year": "2020",
     "link": "https://youtu.be/IE8OD5FbU-c"
 },
+
 {
  "id":27
  "Singer name":" Raftaa ",
@@ -251,22 +253,31 @@
 "Movie name":" Dangal",
 "Release Year":" 2016",
 "Link":"https://youtu.be/0zFoHrvbRu4"
-}
+},
+
 {    "id": 27 ,
     "singer_name": "Ankit tiwari",
     "Song": "Galliyan",
     "Movie": "Ek Villain",
     "Release year": "2014",
     "Song link" :"https://www.youtube.com/watch?v=FxAG_11PzCk"
-}
+
+},
 
 
-{    "id": 18 ,
+{    "id": 28 ,
     "singer_name": "Jubin Nautiyal",
     "Song":"Rataan Lambiyan",
     "Movie": "Shershaah",
     "Release year": "2021",
     "Song link" :"https://www.youtube.com/watch?v=gvyUuxdRdR4"
-}
-]
+},
 
+
+{    "id": 30 ,
+    "singer_name": "Palak Mucchal",
+    "Song": "Yaad hai ",
+    "Movie": "Aiyaary",
+    "Release year": "2018",
+    "Song link" :"https://youtu.be/932mUnvvklo
+}
